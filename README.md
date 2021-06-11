@@ -21,10 +21,9 @@ You can select new cases and new death, total confirmed cases per million(normal
 If you want to see the interactive dashboard click [HERE](https://share.streamlit.io/kaoutarlanjri/interactive-covid-19-dashboard/main/main.py) 
 
 ## Dev Process
-- COVID DATA extracted from [open source](https://github.com/owid/covid-19-data) - 21/05/2021
+- COVID DATA extracted from open source - 21/05/2021
 - [Population DATA](https://www.kaggle.com/tanuprabhu/population-by-country-2020) extracted from Kaggle to normalize the data
 - Creating streamlit interface on Pycharm
-- Creating Streamlit App sharing [link](https://streamlit.io/sharing) 
 
 ## How to install
 - 1st You need to install [streamlit](https://streamlit.io/) and [pandas](https://pandas.pydata.org/), [plotly](https://plotly.com/)
@@ -65,4 +64,3 @@ Copyright (c) 2021 yemre-data
 [@yemre-data](https://github.com/yemre-data) 
 [@LishaLING](https://github.com/LishaLing)
 [@KaoutarLanjri](https://github.com/KaoutarLanjri)
-
